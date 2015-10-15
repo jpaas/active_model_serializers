@@ -10,14 +10,14 @@ http://www.commitstrip.com/en/2014/05/07/the-truth-behind-open-source-apps/](doc
 
 ### Filing an issue
 
-Everyone is encouraged to open issues that are affecting you:
+Everyone is encouraged to open issues that are affecting them:
 bugs, ideas, documentation, performance problems – everything helps!
 
 #### Before
 
-1. The first place to start is by looking at our [GitHub Issues](https://github.com/rails-api/active_model_serializers/issues).
+1. Start by looking at our [GitHub Issues](https://github.com/rails-api/active_model_serializers/issues).
 
-  - Check if your issue has already reported.
+  - Check if your issue has already been reported.
   - If you find an existing issue report, feel free to add further information to that report.
 
 
@@ -30,14 +30,14 @@ issue](https://github.com/rails-api/active_model_serializers/issues/new):
 - What are you using ActiveModelSerializers with? Rails? Grape? Other? Which versions?
 - If you are not running the latest version (please check), and you cannot update it,
   please specify in your report why you can't update to the latest version.
-- Operating system type + version
-- Ruby version with patch level.  And if you're using rvm, rbenv, etc.
+- Operating system type + version.
+- Ruby version with patch level.  And whether you're using rvm, rbenv, etc.
   - Include your ruby -e "puts RUBY_DESCRIPTION".
 - Clearly-written steps to reproduce the issue (i.e. "Show me how to show myself." ), including:
   - What were you doing? Include code if possible.
     - Command line parameters used, if any.
-    - RubyGems code in your Gemfile, if any. Gemfile.lock, if possible
-    - Any configuration you've made
+    - RubyGems code in your Gemfile, if any. Gemfile.lock, if possible.
+    - Any configuration you've made.
   - What did you expect to happen?
   - What happened? Include as much information as possible.
     - Nature of reported defect (e.g. user name missing, not "It doesn't work."). Is it intermittent?
@@ -47,7 +47,7 @@ issue](https://github.com/rails-api/active_model_serializers/issues/new):
     - Any error messages (including stacktrace, i.e. ""Show me the error.")
   - Things you've tried.
   - A pull request for your fix would be great.  Code should have tests.
-  - Link to source code, if available
+  - Link to source code, if available.
 
 Please make sure only to include one issue per report.
 If you encounter multiple, unrelated issues, please report them as such.
@@ -79,7 +79,7 @@ what you've found is *extremely* helpful.
 
 If you solve your issue, stop working on it, or realize the problem was something else,
 please share that in a comment to an issue and close it.  That way, everyone can learn and
-we don't have closing issues without a clear resolution. Even if it's just a stackoverflow link :)
+we don't have closed issues without a clear resolution. Even if it's just a stackoverflow link :)
 And please don't forget to stay involved in the issue until it is closed! Thanks to all!
 
 ### Writing code and comments
